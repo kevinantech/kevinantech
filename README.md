@@ -1,4 +1,3 @@
 # kevinandresgom
 Hi, im Kevin Andres, Trainee Web Developer 👋.
-
-Welcome to my Github profile 👀,
+Welcome to my Github profile 👀.
