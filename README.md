@@ -1,3 +1,3 @@
 # kevinantech
-Hi, im Kevin Andres, Front-end Developer👋.
+Hi, im Kevin Andres, Software Developer👋.
 Welcome to my Github profile 👀.
