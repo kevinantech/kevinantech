@@ -1,3 +1,3 @@
 # kevinantech
-Hi, im Kevin Andres, Software Developer👋.
+Hi, im Kevin Gomez, Software Developer👋.
 Welcome to my Github profile 👀.
